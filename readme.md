@@ -38,6 +38,7 @@ PaperCheckAI is a cutting-edge,
 ## Features of PaperCheckAI  
 
 - 📝 Handwritten Answer Sheet Evaluation: AI-powered evaluation of handwritten answers.
+  
 - ⚡ Real-Time and Batch Processing: Supports instant and bulk answer sheet checking.
 - ✅ Automated Marking and Scoring: Accurate, rules-based scoring of exams.
 - 📂 Management Tools: Organizes student data by roll numbers and classes.
