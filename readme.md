@@ -1,5 +1,7 @@
 # papercheckai
 
+Open-source PaaS leveraging multimodal LLMs to digitize and evaluate handwritten answer sheets with scalable, secure, and explainable AI.
+
 ![Open-source PaaS leveraging multimodal LLMs to digitize and evaluate handwritten answer sheets with scalable, secure, and explainable AI.]( https://github.com/papercheckai/papercheckai/blob/main/public/img.png)
 
 
