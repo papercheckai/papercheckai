@@ -58,5 +58,9 @@ PaperCheckAI is a cutting-edge,
 - 📈 Scalability: Scales for individual teachers or large institutions.
 - 🔍 Plagiarism Detection (Upcoming): Identifies copied content in answers.
 - 🌟 AI-Driven Suggestions for Improvement: Provides tips for student improvement.
+
+## How To Use PapercheckAI
+[![Watch the video](https://img.youtube.com/vi/xktWLD7lFU4/hqdefault.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=xktWLD7lFU4))
+
  
   
