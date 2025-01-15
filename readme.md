@@ -23,6 +23,10 @@ PaperCheckAI is a cutting-edge,
 - AI-driven assessments
 - for educational institutions.
 
+## How To Use PapercheckAI
+[![Watch the video](https://img.youtube.com/vi/xktWLD7lFU4/hqdefault.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=xktWLD7lFU4))
+
+
 ## How do I use this?
 
 >sign-up for free [papercheckai.com](https://papercheckai.com) with your google account and enjoy how effortless is the evaluation process.
@@ -59,8 +63,6 @@ PaperCheckAI is a cutting-edge,
 - 🔍 Plagiarism Detection (Upcoming): Identifies copied content in answers.
 - 🌟 AI-Driven Suggestions for Improvement: Provides tips for student improvement.
 
-## How To Use PapercheckAI
-[![Watch the video](https://img.youtube.com/vi/xktWLD7lFU4/hqdefault.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=xktWLD7lFU4))
 
  
   
